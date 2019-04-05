@@ -10,12 +10,12 @@ title: Gravity
 email: hemangsk@gmail.com
 description: The Liberal Jekyll Theme
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "http://yourdomain.com" # the base hostname & protocol for your site
-twitter_username: hemang_kumar
-github_username:  hemangsk
+url: "http://kariemoorman.com" # the base hostname & protocol for your site
+github_username:  kariemoorman
 paginate: 5
-theme-dark: false #Set to true to change to dark website theme
+theme-dark: true #Set to true to change to dark website theme
 
 plugins: [jekyll-paginate, kramdown]
 # Build settings
 markdown: kramdown
+
